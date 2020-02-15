@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/kishan469/Webhook-API-Session/issues"
   },
-  "homepage": "https://github.com/kishan469/Webhook-API-Session#readme"
+  "homepage": "https://github.com/kishan469/Webhook-API-Session#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.1"
+  }
 }
